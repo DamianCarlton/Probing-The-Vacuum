@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Probing the Vacuum: wormhole instability and wormhole-inspired teleportation"
+authors:
+  - family-names: "Kihara Muchiri"
+    given-names: "Gerald"
+type: software
+version: "1.0.0"
+date-released: "2026-11-17"
+license: MIT
+abstract: >-
+  A compact Python reproduction of Shinkai and Hayward's dual-null evolution of the
+  Ellis wormhole, linking its collapse-time exponent to the linear unstable mode and
+  quantifying the fine-tuning cost of holding the throat open; plus a
+  wormhole-inspired teleportation circuit simulated exactly and run on QuTech's
+  Tuna-17 processor. Developed with assistance from Claude (Anthropic).
+keywords:
+  - wormholes
+  - numerical relativity
+  - dual-null evolution
+  - quantum teleportation
+  - quantum computing
